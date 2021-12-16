@@ -1,0 +1,6 @@
+$git init
+$git add .
+$git commit -m “version1.0?
+$git remote add origin https://github.com/usuario/repositorio
+$ git remote -v
+$ git push origin master?
